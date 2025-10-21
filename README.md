@@ -1,114 +1,136 @@
-<!-- PROFILE README -->
-<!-- Author: M. Kishore (K4isszDev) -->
+<div align="center">
 
-<p align="center">
-  <b><font size="6">🧑‍💻 M. Kishore (K4isszDev)</font></b>
-</p>
-<p align="center">Aspiring Developer | Self-Learner | Founder of AgoraNet</p>
-<p align="center">Learning day by day 🚀 | Python, HTML, CSS, JavaScript | Open to collaboration</p>
+# 👋 M. Kishore (K4isszDev)
+### *formerly known as Aasfcyberking*
 
----
+**Aspiring Developer | Self-Learner | Founder of AgoraNet**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🧑‍💻_About_Me-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+*Learning day by day* 🚀 | *Building with Python, JavaScript, and Web Technologies*
 
-> Hi, I’m **M. Kishore**, a student from **Tirunelveli, Tamil Nadu 🇮🇳**, currently studying in **Class 11 (2025–26)**.  
-> My coding journey started in **2021** during lockdown — out of curiosity. I installed Telegram and discovered I could create bots without prior programming knowledge. That’s how it all began.
+[![GitHub followers](https://img.shields.io/github/followers/K4isszDev?style=social)](https://github.com/K4isszDev)
+[![GitHub User's stars](https://img.shields.io/github/stars/K4isszDev?style=social)](https://github.com/K4isszDev)
 
-> I made my first GitHub account to fork public repositories and modify them. Later, I learned to deploy bots on **Heroku**, including **group management bots**, **userbots**, **file renamers**, and **uploaders**. Every project taught me something new.
-
-> Over time, I taught myself **Python**, **HTML**, **CSS**, **JavaScript**, and explored databases like **MongoDB**, **MySQL**, **SQLite**, **Redis**, and **ElephantSQL**.  
-> I completed a **HDCA Diploma** at a CSC centre, learning **C**, **C++**, and **MySQL** — without even owning a laptop at that time.
-
-> I’ve used tools like **VS Code**, **Heroku**, **Vercel**, **Netlify**, **Buddy.Works**, and many others — some I honestly forgot 😅.  
-> I’m also the **CEO & Founder of AgoraNet**, a network of 300+ developers and IT enthusiasts on Telegram.
-
-> I don’t have a fixed aim yet — I’m **learning day by day**, exploring everything that interests me, and improving as I go.  
-> Previously, I had many projects on GitHub, but I deleted them all to **start from scratch**. In the future, my profile will have **lots of new projects and contributions**.  
-> Every line of code I write tells my story — curiosity, mistakes, growth, and self-learning. 💫
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⚙️_Tech_Stack-00BFFF?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+## 🎯 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,mysql,mongodb,redis,sqlite,git,github,vscode,heroku,vercel,netlify,bash,linux&perline=9" />
-</p>
+Hi, I'm **M. Kishore**, a student from **Tirunelveli, Tamil Nadu 🇮🇳**, currently in **Class 11 (2025–26)**. My coding journey started in **2021** during lockdown — out of pure curiosity. I discovered Telegram bots and realized I could create them without prior programming knowledge. That spark ignited everything.
 
----
+**My Journey:**
+- 🤖 Started with Telegram bots and GitHub forks
+- 🚀 Deployed bots on Heroku (group management, userbots, file renamers, uploaders)
+- 💻 Self-taught **Python**, **HTML**, **CSS**, **JavaScript**
+- 🎓 Completed **HDCA Diploma** (learned C, C++, MySQL)
+- 🌐 Explored multiple databases: MongoDB, MySQL, SQLite, Redis, ElephantSQL
+- 👥 **CEO & Founder of AgoraNet** — a network of 300+ developers on Telegram
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🧰_Tools_&_Platforms-00BFFF?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Host-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Other-Tools+I+Forgot-555555?style=for-the-badge&logo=smashingmagazine&logoColor=white" />
-</p>
+Every project taught me something new. Every mistake became a lesson. I'm not chasing a fixed aim — I'm **learning, exploring, and growing every day**.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🤝_Let's_Collaborate-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+## 🛠️ Tech Stack
 
-> 💡 I’m always open to **collaborate on open-source projects**, **Telegram bots**, **web apps**, or **anything creative and tech-related**.  
-> Whether you need help debugging, designing architecture, or brainstorming ideas — I’d love to contribute.  
+<div align="center">
 
-<p align="center">
-  <a href="mailto:kishoredxd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-kishoredxd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/KishoreDxD" target="_blank"><img src="https://img.shields.io/badge/Telegram-@KishoreDxD-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://instagram.com/K4issz.Luv" target="_blank"><img src="https://img.shields.io/badge/Instagram-@K4issz.Luv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📊_GitHub_Stats-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+**Databases & Caching**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K4isszDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K4isszDev&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4isszDev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+**Tools & Platforms**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🌐_My_Network-00BFFF?style=for-the-badge&logo=telegram&logoColor=white" />
-</p>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-<p align="center">
-  <a href="https://t.me/AgoraNet"><img src="https://img.shields.io/badge/AgoraNet-Network-blueviolet?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://t.me/AgoraNet_Chat"><img src="https://img.shields.io/badge/Chat-AgoraNet_Chat-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://t.me/AgoraNet_Donations"><img src="https://img.shields.io/badge/Donate-AgoraNet_Donations-brightgreen?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/💬_Personal_Note-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+## 🤝 Open to Collaboration
 
-> I’m not chasing an aim — I’m learning, exploring, and growing every day.  
-> Coding isn’t just what I do — it’s how I understand the world better.  
-> Previously, I had many projects on GitHub, but I deleted them all to **start fresh**.  
-> In the future, there will be **lots of new projects and contributions**.  
-> If my work inspires even one person to start their own journey, that’s success to me. 🌱  
+I'm always excited to work on:
+- 🤖 **Telegram bots** and automation projects
+- 🌐 **Web applications** and full-stack development
+- 📚 **Open-source projects** and community contributions
+- 💡 **Creative ideas** and tech experiments
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=K4isszDev&label=Profile%20Views&color=00BFFF&style=flat" alt="Profile Views" />
-</p>
+Whether you need help with debugging, architecture design, or brainstorming — I'd love to contribute and learn together!
 
-⭐️ **From [K4isszDev (M. Kishore)](https://github.com/K4isszDev)**
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K4isszDev&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K4isszDev&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🌐 My Network
+
+<div align="center">
+
+[![AgoraNet](https://img.shields.io/badge/AgoraNet-Network-blueviolet?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AgoraNet)
+[![AgoraNet Chat](https://img.shields.io/badge/Chat-AgoraNet_Chat-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AgoraNet_Chat)
+[![AgoraNet Donations](https://img.shields.io/badge/Donate-AgoraNet_Donations-brightgreen?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AgoraNet_Donations)
+
+</div>
+
+---
+
+## 💭 My Philosophy
+
+> *I'm not chasing a fixed aim — I'm learning, exploring, and growing every day.*
+> 
+> *Coding isn't just what I do — it's how I understand the world better.*
+> 
+> *Previously, I deleted all my projects to start fresh. In the future, there will be lots of new projects and contributions.*
+> 
+> *If my work inspires even one person to start their own journey, that's success to me.* 🌱
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/K4isszDev)
+[![Email](https://img.shields.io/badge/Email-kishoredxd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishoredxd@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@KishoreDxD-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KishoreDxD)
+[![Instagram](https://img.shields.io/badge/Instagram-@K4issz.Luv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/K4issz.Luv)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐️ Made with passion by [K4isszDev](https://github.com/K4isszDev) (formerly Aasfcyberking)**
+
+*Every line of code tells a story — curiosity, mistakes, growth, and self-learning.* 💫
+
+</div>
